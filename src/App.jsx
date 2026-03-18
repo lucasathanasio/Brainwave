@@ -11,7 +11,7 @@ import Footer from "./components/Footer";
 const App = () => {
   return (
     <>
-      <div className="pt-[4.75rem] lg:pt-[5.25rem] overflow-hidden bg-n-8 min-h-screen">
+      <div className="font-sans pt-[4.75rem] lg:pt-[5.25rem] overflow-hidden bg-n-8 min-h-screen">
         <Header />
         <Hero />
         <Benefits />
