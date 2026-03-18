@@ -1,16 +1,14 @@
 # 🧠 Landing Page Brainwave com React e Tailwind CSS
 
-<!--
-[![Deploy na Vercel](https://img.shields.io/badge/Deploy-Vercel-black?logo=vercel)](#)
--->
+[![Deploy na Vercel](https://img.shields.io/badge/Deploy-Vercel-black?logo=vercel)](https://brainwave-ruby-five.vercel.app)
+
+
 [![Tecnologias](https://skillicons.dev/icons?i=react,tailwind,js,html,css,vite&theme=dark)](https://skillicons.dev)
 
 ---
 
 ## 📷 Prévia
-
-<img width="1267" height="639" alt="image" src="https://github.com/user-attachments/assets/5c334941-9ff5-4fc7-a25c-771938e8501a" />
-
+<img width="1350" height="767" alt="image" src="https://github.com/user-attachments/assets/73f735aa-073c-4903-9bd5-bacf21950d80" />
 
 
 ## 📌 Descrição
@@ -42,12 +40,12 @@ O projeto está sendo construído com foco em:
 
 - ✅ Header com navegação responsiva
 - ✅ Hero Section
-- 🔄 Features
-- 🔄 Pricing
-- 🔄 Roadmap
-- 🔄 Testimonials
-- 🔄 Call To Action (CTA)
-- 🔄 Footer
+- ✅ Benefits
+- ✅ Collaboration
+- ✅ Services
+- ✅ Pricing
+- ✅ Roadmap
+- ✅ Footer
 
 ---
 
@@ -72,19 +70,6 @@ Este projeto tem como objetivo:
 - Trabalhar responsividade
 - Criar um layout moderno
 - Evoluir organização de design system
-
----
-
-<!--
-## 📌 Melhorias Futuras
-
-- Implementação completa da seção Pricing  
-- Animações adicionais com parallax  
-- Melhor organização do Tailwind config  
-- Otimização de performance  
-- Deploy final na Vercel  
-- Integração futura com backend/API
--->
 
 ---
 
